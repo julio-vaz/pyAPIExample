@@ -1,0 +1,2 @@
+class InvalidOrderbookResponse(Exception):
+    pass
