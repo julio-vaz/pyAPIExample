@@ -1,2 +1,4 @@
 requests
 sanic
+responses
+pytest-cov
