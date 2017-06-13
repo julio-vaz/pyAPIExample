@@ -1,4 +1,5 @@
 # API de exemplo em Python
+![](https://api.travis-ci.org/julio-vaz/pyAPIExample.svg?branch=develop)
 
 API criada para servir de exemplo de uma proposta de padrão para RESTful API's.
 
